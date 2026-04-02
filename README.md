@@ -66,3 +66,10 @@ This system supports authentication, role-based access control, and ticket booki
 
 ---
 
+# Author
+
+Faisha Fasha Natasya Putri
+
+GitHub = https://github.com/faishafashanp
+
+Linkedin = www.linkedin.com/in/faishafasha
